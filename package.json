@@ -1,0 +1,22 @@
+{
+  "name": "gear-best",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Eldar-Tanerbergen/gear-best.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Eldar-Tanerbergen/gear-best/issues"
+  },
+  "homepage": "https://github.com/Eldar-Tanerbergen/gear-best#readme",
+  "devDependencies": {
+    "http-server": "^0.11.1"
+  }
+}
